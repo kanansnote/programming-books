@@ -13,3 +13,4 @@
 - [Javascript in Azerbaijani](https://github.com/user-attachments/files/16993005/Javascript.pdf)
 - [React Hooks 5](https://github.com/user-attachments/files/16993015/React.Hooks-5.pdf)
 - [React Interview Questions](https://github.com/user-attachments/files/16993049/React.Interview.Questions.pdf)
+- [Hands On Application Development with PyCharm by Quan Nguyen](https://github.com/user-attachments/files/17080895/Hands_On_Application_Development_with_PyCharm_by_Quan_Nguyen-compressed.pdf)
