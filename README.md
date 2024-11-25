@@ -7,6 +7,7 @@
 - [Fluent Python Clear, Concise, and Effective Programming, 2nd Edition by Luciano Ramalho](https://github.com/user-attachments/files/16992910/Fluent.Python.Clear.Concise.and.Effective.Programming.2nd.Edition.by.Luciano.Ramalho_bibis.ir.pdf)
 - [Python Cheat Sheet](https://github.com/user-attachments/files/16992909/Python-Cheat-Sheet.pdf)
 - [Django 3 by Example Build Powerful and Reliable Python Web Applications](https://github.com/user-attachments/files/16993026/Django_3_By_Example_Build_powerful_and_reliable_Python_web_applications.pdf)
+- [Python Cookbook in Russian](https://github.com/user-attachments/files/17900939/python_kniga_receptov.pdf)
 
 ### JavaScript, React.js:
 
